@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">حاصل</string>
+    <string name="action_getAverage">اوسط حاصل کریں</string>
+    <string name="action_select_question">سوالات کی تعداد منتخب کریں</string>
+    <string name="action_reset_result">محفوظ نتیجے کو ریسٹ کریں</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">اگلا</string>
+    <string name="txt_true">درست</string>
+    <string name="txt_false">غلط</string>
+    <string name="question1">مونٹریال کبیک کا دارالحکومت شہر ہے۔</string>
+    <string name="question2">ٹورنٹو آنٹاریو کا دارالحکومت شہر ہے۔</string>
+    <string name="question3">ریکجاوک آئس لینڈ کا دارالحکومت شہر ہے۔</string>
+    <string name="question4">اسلام آباد پاکستان کا دارالحکومت شہر ہے۔</string>
+    <string name="question5">باکو آذربائیجان کا دارالحکومت شہر ہے۔</string>
+    <string name="question6">ریکجاوک آئس لینڈ کا دارالحکومت شہر ہے۔</string>
+    <string name="question7">ڈھاکہ بنگلہ دیش کا دارالحکومت شہر ہے۔</string>
+    <string name="question8">کابل افغانستان کا دارالحکومت شہر ہے۔</string>
+
+    <string name="message_average">آپ کے درست جوابات / کل سوالات کی تعداد= </string>
+    <string name="english">انگریزی</string>
+    <string name="urdu">اردو</string>
+    <string name="invalidNumber">"براہ کرم ایک درست نمبر درج کریں۔.</string>
+    <string name="result">نتیجہ</string>
+    <string name="your_result">آپ نے حاصل کیے ہیں</string>
+    <string name="out_of">میں سے</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="ignore">نظرانداز کریں</string>
+    <string name="enter_question">8 سے کم سوال درج کریں</string>
+
+    <string name="previous">پچھلا</string>
+    <string name="ok">ٹھیک</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_question">Toronto is the Capital city of Ontario.</string>
+    <string name="add_question">سوالات کی تعداد مندرجہ ذیل سے کم داخل کریں۔</string>
+    <string name="action_select_language">زبان منتخب کریں</string>
+</resources>
